@@ -5,11 +5,12 @@ markdown
 Copy code
 # Task Manager App
 
-This is a simple task manager application built with the power of react. Manage your tasks efficiently . This README file will guide you through the features and usage of GitHups.
+This is a simple task manager application built with the power of reacting. Manage your tasks efficiently. This README file will guide you through the features and usage of GitHups.
+Ps, Visit the deployed version: https://task-mate-version2-0.netlify.app/ (desktop Only)
 
 ## Features 🕣
 
-1. **Check Box**: Indicate completion status of tasks by checking the box associated with each task. ✅
+1. **Check Box**: Indicate the completion status of tasks by checking the box associated with each task. ✅
 
 2. **Edit Button**: Fix any errors or update task details using the Edit button provided for each task. 🖊
 
